@@ -9,17 +9,19 @@ npm run dev
 
 ### How to use
 
+```bash
 Append http://localhost:3000/ to the beginning of the url of any website.
+```
 
 ### Setup .env file
 
 ```bash
-UPSTASH_VECTOR_REST_URL=your_upstash_vector_uri
+UPSTASH_VECTOR_REST_URL=your_upstash_vector_url
 UPSTASH_VECTOR_REST_TOKEN=your_upstash_vector_token
 
 QSTASH_TOKEN=your_qstash_token
 
-UPSTASH_REDIS_REST_URL=your_upstash_redis_uri
+UPSTASH_REDIS_REST_URL=your_upstash_redis_url
 UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_token
 ```
 
