@@ -29,14 +29,34 @@ UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_token
 
 ```shell
 git clone https://github.com/MaheshR03/askthiswebsite
+```
+```shell
 cd askthiswebsite
+```
+```shell
 bunx create-next-app@latest askthiswebsite
+```
+```shell
 bun add @upstash/rag-chat
+```
+```shell
 bun install @upstash/redis
+```
+```shell
 bun install ai
+```
+```shell
 bun i tailwind-merge clsx
+```
+```shell
 bun i lucide-react
-npx shadcn@latest init 
+```
+```shell
+npx shadcn@latest init
+```
+```shell
 bun i @nextui-org/react
+```
+```shell
 npm run dev
 ```
