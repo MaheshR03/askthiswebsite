@@ -1,6 +1,8 @@
 # ASK-THIS-WEBSITE
 <h3>A chatbot to chat with any website made with RAGChat & NextJS.</h3>
 
+![Askthiswebsite](https://github.com/user-attachments/assets/04a6ce23-95a2-48e0-9b50-4ae09f06c136)
+
 ### Run this app locally
 
 ```shell
